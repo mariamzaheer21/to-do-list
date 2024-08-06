@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+li {
+    margin: 5px 2px;  
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.delete {
+    background-color: rgb(180, 120, 120);
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    margin-right: 1115px;
+    cursor: pointer;
+}
